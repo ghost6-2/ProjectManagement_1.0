@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB97323B-46F2-4362-963E-9D96640C6473}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projekt</RootNamespace>
+    <AssemblyName>projekt</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clanovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clanovi.Designer.cs">
+      <DependentUpon>Clanovi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzvjestajForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzvjestajForma.Designer.cs">
+      <DependentUpon>IzvjestajForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzvjestajSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IzvjestajSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NoviPodaci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviPodaci.Designer.cs">
+      <DependentUpon>NoviPodaci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izvjestaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izvjestaj.Designer.cs">
+      <DependentUpon>Izvjestaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForma.Designer.cs">
+      <DependentUpon>LoginForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoviClan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoviClan.Designer.cs">
+      <DependentUpon>NoviClan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OdabirZaAdmina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OdabirZaAdmina.Designer.cs">
+      <DependentUpon>OdabirZaAdmina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PregledClanova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledClanova.Designer.cs">
+      <DependentUpon>PregledClanova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PregledZaKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledZaKorisnika.Designer.cs">
+      <DependentUpon>PregledZaKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UpisKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpisKorisnika.Designer.cs">
+      <DependentUpon>UpisKorisnika.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Clanovi.resx">
+      <DependentUpon>Clanovi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izvjestaj.rdlc" />
+    <EmbeddedResource Include="IzvjestajForma.resx">
+      <DependentUpon>IzvjestajForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NapravitiIzvjestaj.rdlc" />
+    <EmbeddedResource Include="NoviPodaci.resx">
+      <DependentUpon>NoviPodaci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izvjestaj.resx">
+      <DependentUpon>Izvjestaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForma.resx">
+      <DependentUpon>LoginForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoviClan.resx">
+      <DependentUpon>NoviClan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OdabirZaAdmina.resx">
+      <DependentUpon>OdabirZaAdmina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledClanova.resx">
+      <DependentUpon>PregledClanova.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledZaKorisnika.resx">
+      <DependentUpon>PregledZaKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UpisKorisnika.resx">
+      <DependentUpon>UpisKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="IzvjestajSet.xsc">
+      <DependentUpon>IzvjestajSet.xsd</DependentUpon>
+    </None>
+    <None Include="IzvjestajSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IzvjestajSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IzvjestajSet.xss">
+      <DependentUpon>IzvjestajSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\55.png" />
+    <Content Include="Content\add-512.png" />
+    <Content Include="Content\bars_file-512.png" />
+    <Content Include="Content\bfa_edit_simple-light-gray_512x512.png" />
+    <None Include="Content\edit.png" />
+    <Content Include="Content\edit_user_male_write_pencil_man-512.png" />
+    <Content Include="Content\index.jpg" />
+    <Content Include="Content\user_remove_man_male_profile_account_person-512.png" />
+    <None Include="Content\zzz.png" />
+    <Content Include="projekt1.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

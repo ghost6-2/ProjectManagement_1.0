@@ -1,0 +1,512 @@
+D:\personal-data\Desktop\projekt\projekt\bin\Debug\projekt.exe.config
+D:\personal-data\Desktop\projekt\projekt\bin\Debug\projekt.exe
+D:\personal-data\Desktop\projekt\projekt\bin\Debug\projekt.pdb
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.exe
+D:\personal-data\Desktop\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\projekt1.accdb
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.Clanovi.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.Izvjestaj.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.NoviClan.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.PregledClanova.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.PregledZaKorisnika.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.UpisKorisnika.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.OdabirZaAdmina.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.IzvjestajForma.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\obj\Debug\projekt.NoviPodaci.resources
+C:\Users\student\Desktop\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\projekt1.accdb
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\EnvDTE.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\stdole.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\EnvDTE80.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\VSLangProj.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\VSLangProj80.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\VSLangProj2.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.Clanovi.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.IzvjestajForma.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.NoviPodaci.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.Izvjestaj.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.NoviClan.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.OdabirZaAdmina.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.PregledClanova.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.PregledZaKorisnika.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.UpisKorisnika.resources
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Ivan\Desktop\projekt\New folder (2)\projekt\projekt\obj\Debug\projekt.TrazenjeClana.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.exe.config
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Clanovi.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.IzvjestajForma.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviPodaci.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Izvjestaj.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviClan.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.OdabirZaAdmina.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledClanova.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledZaKorisnika.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.UpisKorisnika.resources
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt1.accdb
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Design.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\stdole.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE80.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj80.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Editor.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj2.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Design.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Package.LanguageService.14.0.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Framework.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Editor.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ivan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt1.accdb
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\stdole.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE80.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj80.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj2.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.projekt.exe.config
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Clanovi.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.IzvjestajForma.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviPodaci.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Izvjestaj.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviClan.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.OdabirZaAdmina.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledClanova.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledZaKorisnika.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.UpisKorisnika.resources
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Valerijan\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt1.accdb
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\stdole.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE80.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj80.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj2.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\EnvDTE80.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj80.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\VSLangProj2.xml
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.projekt.exe.config
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Clanovi.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.IzvjestajForma.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviPodaci.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Izvjestaj.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.LoginForma.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.NoviClan.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.OdabirZaAdmina.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledClanova.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.PregledZaKorisnika.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.UpisKorisnika.resources
+C:\Users\Tomislav\Desktop\Projekt1\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
